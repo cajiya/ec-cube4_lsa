@@ -1,0 +1,12 @@
+{
+    "name": "ec-cube\/lowstockalert",
+    "version": "4.2.0",
+    "description": "在庫切れアラート",
+    "type": "eccube-plugin",
+    "require": {
+        "ec-cube\/plugin-installer": "^2.0"
+    },
+    "extra": {
+        "code": "LowStockAlert"
+    }
+}
